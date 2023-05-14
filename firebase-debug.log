@@ -1,0 +1,21 @@
+[debug] [2023-05-14T07:03:54.871Z] ----------------------------------------------------------------------
+[debug] [2023-05-14T07:03:54.873Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\pcv\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2023-05-14T07:03:54.873Z] CLI Version:   11.29.1
+[debug] [2023-05-14T07:03:54.873Z] Platform:      win32
+[debug] [2023-05-14T07:03:54.873Z] Node Version:  v16.15.1
+[debug] [2023-05-14T07:03:54.874Z] Time:          Sun May 14 2023 00:03:54 GMT-0700 (Pacific Daylight Time)
+[debug] [2023-05-14T07:03:54.875Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-05-14T07:03:54.882Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-05-14T07:03:54.882Z] > authorizing via signed-in user (kelleymartin872@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\work\Full_Stack_Development\TongJunMing\TJM-portfolio\myPortfolio-master
+
